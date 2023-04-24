@@ -1,6 +1,6 @@
 # About-me
 
-I'm an 18 years old freelance developer and student. Open to work as long as it's either open source or paid. :)
+I'm an 18 years old freelance developer and student. Open to work as long as it's either open source or paid.
 
 I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to be studying Artificial Intelligence.
 
