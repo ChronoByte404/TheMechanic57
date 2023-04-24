@@ -6,7 +6,7 @@ I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to
 
 # Programs I've made.
 
-AI Virtual Assistant named 'Lily' (soon to be open sourced)
+AI Virtual Assistant named 'Lily' - using Natural Language Processing and Natural Language Generation.
 
 Web browser using PyQt5 (discontinued)
 
