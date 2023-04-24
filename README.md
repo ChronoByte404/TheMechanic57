@@ -1,12 +1,13 @@
 # About-me
 
-I'm 17 years old.
+I'm an 18 years old freelance developer and student. Open to work as long as it's either open source or paid. :)
 
-I am interested in AI, Home Automation Systems, Natural Language UIs, GUI programming and all manner of Python programming.
+I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to be studying Artificial Intelligence.
 
 # Programs I've made.
 
-I have programmed a home automation voice-controlled python program in the past, which was recently combined with an open source Intent Classification program.
-I have programmed a web browser UI with PyQt5 and PyQtWebEngine.
-And some more small insignificant programs.
+AI Virtual Assistant named 'Lily' (soon to be open sourced)
 
+Web browser using PyQt5 (discontinued)
+
+The Public Ultron Discord Mod Bot for Discord Servers - using my own home AI system combined with the Conversational Abilities of Carter. https://top.gg/bot/1087420744809582692 powered by https://www.carterlabs.ai/ (operational) 
