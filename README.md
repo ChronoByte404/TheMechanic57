@@ -10,6 +10,7 @@ AI Virtual Assistant named 'Lily' - using Natural Language Processing and Natura
 - Has a voice interface (using OpenAI's Whisper)
 - A Discord interface, to allow remote control and TTS output through a Discord VC.
 - Natural Language Generation using a combination of GPT4All, Carter and Intent Classification Responses for forced behaviours.
+- Closed source, but an API service will soon be available for NLP and NLG.
 
 AI Discord Moderator named 'Ultron' using Lily's AI.
 - A Discord interface, to allow remote control and TTS output through a Discord VC. Also, automatically detecting inappropriate content and removing it, applying roles to new members, and assisting enquiries.
