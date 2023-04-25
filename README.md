@@ -9,7 +9,7 @@ I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to
 AI Virtual Assistant named 'Lily' - using Natural Language Processing and Natural Language Generation.
 - Has a voice interface. (using OpenAI's Whisper)
 - A Discord interface, to allow remote control and TTS output through a Discord VC.
-- Natural Language Generation using a combination of GPT4All, Carter and Intent Classification Responses for forced behaviours.
+- Natural Language Generation using a combination of GPT4All and Intent Classification Responses for forced behaviours.
 - Controls TV & PC functions, such as Spotify, Word, Web browser, Tuya integration, and many more...
 - Closed source, but an API service will soon be available for NLP and NLG.
 
