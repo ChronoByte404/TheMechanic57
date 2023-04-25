@@ -11,16 +11,15 @@ I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to
 - A Discord interface, to allow remote control and TTS output through a Discord VC.
 - Natural Language Generation using a combination of GPT4All and Intent Classification Responses for forced behaviours.
 - Controls TV & PC functions, such as Spotify, Word, Web browser, Tuya integration, and many more...
-- Closed source, but an API service will soon be available for NLP and NLG.
 - Lily = 'L.I.L.Y. - Language Intelligence Learning Yielder'
+- Closed source.
 
 **AI Discord Moderator named 'Ultron' - using both Carter and Lily.**
 - A Discord interface, to allow remote control and TTS output through a Discord VC. Also, automatically detecting inappropriate content and removing it, applying roles to new members, and assisting enquiries.
 - Natural Language Generation built using the Carter API. (https://www.carterlabs.ai/)
 - Input & Output monitored and dictated by Lily's sub-programs as an automatic process.
-- Open source boilerplate for combining Discord applications with Carter. https://github.com/TheMechanic57/Carter-Discord-Boilerplate
-- Open source version of Ultron called 'Jarvis' https://github.com/TheMechanic57/Jarvis-Discord-Bot
 - Ultron = 'U.L.T.R.O.N. - Unified Language Transgression and Regulation Observation Network'
+- Open source! https://github.com/TheMechanic57/Carter-Discord-Boilerplate & https://github.com/TheMechanic57/Jarvis-Discord-Bot
 
 **Web browser using PyQt5 (discontinued)**
 - Simple GUI program which uses PyQt5's web package.
