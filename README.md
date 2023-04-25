@@ -18,7 +18,8 @@ AI Discord Moderator named 'Ultron' using Lily's AI, mixed with Carter.
 - A Discord interface, to allow remote control and TTS output through a Discord VC. Also, automatically detecting inappropriate content and removing it, applying roles to new members, and assisting enquiries.
 - Natural Language Generation built using the Carter API. (https://www.carterlabs.ai/)
 - Input & Output monitored and dictated by Lily's sub-programs as an automatic process.
-- Open source boilerplate for combining Discord applications with Carter. https://github.com/TheMechanic57/Carter-Discord-Boilerplate and an open source combination of this boilerplate with Ethan Barr's Jarvis Discord Moderation Bot. https://github.com/TheMechanic57/Jarvis-Discord-Bot
+- Open source boilerplate for combining Discord applications with Carter. https://github.com/TheMechanic57/Carter-Discord-Boilerplate
+- Open source version of Ultron called 'Jarvis' https://github.com/TheMechanic57/Jarvis-Discord-Bot
 - Ultron = 'U.L.T.R.O.N. - Unified Language Transgression and Regulation Observation Network'
 
 Web browser using PyQt5 (discontinued)
