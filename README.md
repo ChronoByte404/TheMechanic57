@@ -14,7 +14,7 @@ I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to
 - Closed source, but an API service will soon be available for NLP and NLG.
 - Lily = 'L.I.L.Y. - Language Intelligence Learning Yielder'
 
-**AI Discord Moderator named 'Ultron' using Lily's AI.**
+**AI Discord Moderator named 'Ultron' - using both Carter and Lily.**
 - A Discord interface, to allow remote control and TTS output through a Discord VC. Also, automatically detecting inappropriate content and removing it, applying roles to new members, and assisting enquiries.
 - Natural Language Generation built using the Carter API. (https://www.carterlabs.ai/)
 - Input & Output monitored and dictated by Lily's sub-programs as an automatic process.
