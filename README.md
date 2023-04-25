@@ -4,7 +4,7 @@ I'm an 18 year old freelance developer and student. Looking for work.
 
 I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to be studying Artificial Intelligence.
 
-# Main programs that I've made.
+# Notable programs that I've made.
 
 AI Virtual Assistant named 'Lily' - using Natural Language Processing and Natural Language Generation.
 - Has a voice interface. (using OpenAI's Whisper)
@@ -21,9 +21,11 @@ AI Discord Moderator named 'Ultron' using Lily's AI.
 
 Web browser using PyQt5 (discontinued)
 - Simple GUI program which uses PyQt5's web package.
+- Open source! https://github.com/TheMechanic57/PyQt5-Webbrowser
 
 Tuyapy API-based light control program
 - A tkinter program which allows use of the Tuyapy package to control lights.
+- Open source! https://github.com/TheMechanic57/Tuya-Light-Control
 
 # Contact Details
 
