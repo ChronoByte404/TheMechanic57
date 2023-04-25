@@ -24,3 +24,8 @@ Web browser using PyQt5 (discontinued)
 
 Tuyapy API-based light control program
 - A tkinter program which allows use of the Tuyapy package to control lights.
+
+# Contact Details
+
+Discord: https://discord.gg/m392E45Rr5
+Email: jackfranklin899@gmail.com
