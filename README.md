@@ -12,6 +12,7 @@ AI Virtual Assistant named 'Lily' - using Natural Language Processing and Natura
 - Natural Language Generation using a combination of GPT4All and Intent Classification Responses for forced behaviours.
 - Controls TV & PC functions, such as Spotify, Word, Web browser, Tuya integration, and many more...
 - Closed source, but an API service will soon be available for NLP and NLG.
+- Lily = 'Language Intelligence Learning Yielder'
 
 AI Discord Moderator named 'Ultron' using Lily's AI.
 - A Discord interface, to allow remote control and TTS output through a Discord VC. Also, automatically detecting inappropriate content and removing it, applying roles to new members, and assisting enquiries.
