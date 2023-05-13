@@ -21,7 +21,7 @@ I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to
 - Ultron = 'U.L.T.R.O.N. - Unified Language Transgression and Regulation Observation Network'
 - Open source stripped-back version! https://github.com/TheMechanic57/Carter-Discord-Boilerplate
 - Open source collaborative version! https://github.com/TheMechanic57/Jarvis-Discord-Bot
-- The full version is Closed Source.
+- The full version is closed source.
 
 **Web browser using PyQt5 (discontinued)**
 - Simple GUI program which uses PyQt5's web package.
