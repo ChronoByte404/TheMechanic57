@@ -19,7 +19,9 @@ I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to
 - Natural Language Generation built using the Carter API. (https://www.carterlabs.ai/)
 - Input & Output monitored and dictated by Lily's sub-programs as an automatic process.
 - Ultron = 'U.L.T.R.O.N. - Unified Language Transgression and Regulation Observation Network'
-- Open source hybrid version! https://github.com/TheMechanic57/Carter-Discord-Boilerplate & https://github.com/TheMechanic57/Jarvis-Discord-Bot
+- Open source stripped-back version! https://github.com/TheMechanic57/Carter-Discord-Boilerplate
+- Open source collaborative version! https://github.com/TheMechanic57/Jarvis-Discord-Bot
+- The full version is Closed Source.
 
 **Web browser using PyQt5 (discontinued)**
 - Simple GUI program which uses PyQt5's web package.
