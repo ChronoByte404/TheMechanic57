@@ -6,7 +6,7 @@ I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to
 
 # Notable programs that I've made.
 
-**AI Virtual Assistant named 'Lily' - using Natural Language Processing and Natural Language Generation.**
+##AI Virtual Assistant named 'Lily' - using Natural Language Processing and Natural Language Generation.**
 - Has a voice interface. (using OpenAI's Whisper)
 - A Discord interface, to allow remote control and TTS output through a Discord VC.
 - Natural Language Generation using a combination of Carter and local Intent Classification for forced behaviours.
@@ -14,7 +14,7 @@ I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to
 - Lily = 'L.I.L.Y. - Language Intelligence Learning Yielder'
 - MK II is open source, and can be found on my repo under Lily MK II!
 
-**AI Discord Moderator named 'Ultron' - using both Carter and Lily.**
+##AI Discord Moderator named 'Ultron' - using both Carter and Lily.**
 - A Discord interface, to allow remote control and TTS output through a Discord VC. Also, automatically detecting inappropriate content and removing it, applying roles to new members, and assisting enquiries.
 - Natural Language Generation built using the Carter API. (https://www.carterlabs.ai/)
 - Input & Output monitored and dictated by Lily's sub-programs as an automatic process.
@@ -23,11 +23,11 @@ I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to
 - Open source collaborative version! https://github.com/TheMechanic57/Jarvis-Discord-Bot
 - MK II is open source, and can be found on my repo under Lily MK II!
 
-**Web browser using PyQt5 (discontinued)**
+##Web browser using PyQt5 (discontinued)**
 - Simple GUI program which uses PyQt5's web package.
 - Open source! https://github.com/TheMechanic57/PyQt5-Webbrowser
 
-**Tuyapy API-based light control program**
+##Tuyapy API-based light control program**
 - A tkinter program which allows use of the Tuyapy package to control lights.
 - Open source! https://github.com/TheMechanic57/Tuya-Light-Control
 
