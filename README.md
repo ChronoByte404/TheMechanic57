@@ -1,6 +1,6 @@
 # About me.
 
-I'm an 18 year old freelance developer and student. Looking for work.
+I'm an 18 year old freelance developer and student.
 
 I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to be studying Artificial Intelligence.
 
