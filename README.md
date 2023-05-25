@@ -12,7 +12,7 @@ I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to
 - Natural Language Generation using a combination of Carter and local Intent Classification for forced behaviours.
 - Controls TV & PC functions, using the likes of Spotify, Word, Web browser, Tuya integration, and many more...
 - Lily = 'L.I.L.Y. - Language Intelligence Learning Yielder'
-- Closed source.
+- MK II is open source, and can be found on my repo under Lily MK II!
 
 **AI Discord Moderator named 'Ultron' - using both Carter and Lily.**
 - A Discord interface, to allow remote control and TTS output through a Discord VC. Also, automatically detecting inappropriate content and removing it, applying roles to new members, and assisting enquiries.
@@ -21,7 +21,7 @@ I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to
 - Ultron = 'U.L.T.R.O.N. - Unified Language Transgression and Regulation Observation Network'
 - Open source stripped-back version! https://github.com/TheMechanic57/Carter-Discord-Boilerplate
 - Open source collaborative version! https://github.com/TheMechanic57/Jarvis-Discord-Bot
-- The full version is closed source, but can be added to your own Discord server here! https://top.gg/bot/1087420744809582692
+- MK II is open source, and can be found on my repo under Lily MK II!
 
 **Web browser using PyQt5 (discontinued)**
 - Simple GUI program which uses PyQt5's web package.
