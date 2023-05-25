@@ -33,5 +33,5 @@ I am interested in AI, Home Automation Systems and Natural Language UIs. Soon to
 
 # Contact Details
 
-Discord: https://discord.gg/m392E45Rr5
+Discord: (https://discord.gg/Y2WrYkh7pr)
 Email: jackfranklin899@gmail.com
